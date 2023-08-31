@@ -1,0 +1,16 @@
+.DS_Store
+venv/
+VENV/
+virtualenv/
+node_modules/
+.npm
+logs
+*.log
+npm-debug.log*
+build/Release
+typings/
+*.tsbuildinfo
+data/
+dist/
+*.pyc
+.idea/

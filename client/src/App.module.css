@@ -1,0 +1,10 @@
+.addNewButtonHome{
+  position: fixed;
+    bottom: 80px;
+    right: 40px;
+    width: 60px;
+    height: 60px;
+    border-radius: 20%;
+    font-size: 30px;
+    color: black;
+}
